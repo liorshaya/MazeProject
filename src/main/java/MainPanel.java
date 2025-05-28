@@ -8,7 +8,6 @@ public class MainPanel extends JPanel {
     public MainPanel(int x, int y, int width, int height, BufferedImage img){
         this.img = img;
 
-
         this.setBounds(x, y, width, height);
         this.setLayout(null);
 
