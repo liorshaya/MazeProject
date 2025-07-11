@@ -65,6 +65,5 @@ public class Main {
         window.revalidate();
         window.setVisible(true);
 
-
     }
 }
